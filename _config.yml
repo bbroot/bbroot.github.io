@@ -1,7 +1,7 @@
 title: bbroot App Support
 description: Technical support pages for bbroot apps
 baseurl: ""
-url: "https://app.404w.com"
+url: "https://bbroot.github.io"
 
 theme: minima
 
