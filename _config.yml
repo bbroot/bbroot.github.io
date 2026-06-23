@@ -1,0 +1,13 @@
+title: bbroot App Support
+description: Technical support pages for bbroot apps
+baseurl: ""
+url: "https://app.404w.com"
+
+theme: minima
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
